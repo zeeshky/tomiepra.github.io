@@ -20,7 +20,7 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: image('Loot.png');
+    background-image: url('Loot.png');
     background-size: cover;
 }
 
